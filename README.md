@@ -17,7 +17,7 @@ Thanks to Home Assistant and ESPHome! The core of the sensor is based on these t
 
 #### Adding to the below instructions, I highly recommend reading the Quick Start guide, provided in this repo.
 
-# Instructions
+## Instructions
 1. After you got all the needed parts, you need to flash the firmware on the D1 mini.
 
 Method 1: Download and use the .bin file in this repo, connect your D1 mini/ESP-based MCU to your PC using a micro-USB cable and flash the file on the board using ESPHome-flasher utility, for your OS. (https://github.com/esphome/esphome-flasher/releases)
@@ -36,7 +36,7 @@ If you did flashed the .bin file in this repo, then wait a few minutes, as the D
 
 6. Enjoy using the motion sensor in your light automations, presence detection ideas, alarm system or whatever. You can adjust the sensitivity and delay after trigger, using the two knobs, on top of the sensor.
 
-# 3D enclosure instructions
+## 3D enclosure instructions
 1. Slice the STLs in your preffered slicer. The settings in CURA 4.8.0, for a Creality Ender-5, used for printing the sample in the pictures are:
 - 0.2 layer height
 - 20% infill
@@ -67,3 +67,15 @@ Credits:
         - Electronlibre (https://www.thingiverse.com/electronlibre/designs)
         
         - Hills8 (https://www.thingiverse.com/hills8/designs)
+
+## Picromatics
+
+If you need something already made, the kit, the plug-n-play device, the 3D printed case or you just want to know more about me and my IoT company, write me an email or find me on LinkedIn/Facebook.
+
+#### http://picromatics.com
+#### contact@picromatics.com
+#### gabriel.eugen.pintea@gmail.com
+
+Turn your “dumb” home into a Smart Home! Picromatics develops professional IoT Solutions and offers Smart Integration Services for all your needs, being your beloved home or your business. 
+
+IT & IoT Consulting services, Smart Home integration, custom hardware development, custom software development, product design, 3D printing and more...
