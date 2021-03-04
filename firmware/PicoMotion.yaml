@@ -1,0 +1,32 @@
+esphome:
+  name: picomotion_1
+  platform: ESP8266
+  board: d1_mini
+
+wifi:
+  ssid: "insertyourwifissid"
+  password: ""
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Picomotion 1"
+    password: "HDLlLT2YEIci"
+
+captive_portal:
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  password: "HDLlLT2YEIci"
+
+ota:
+  password: "HDLlLT2YEIci"
+  
+binary_sensor:
+  - platform: gpio
+    pin: D4
+    name: "Picomotion 1"
+    device_class: motion
+    id: picomotion1
