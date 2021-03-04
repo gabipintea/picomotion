@@ -72,7 +72,7 @@ Credits:
 
 If you need something already made, the kit, the plug-n-play device, the 3D printed case or you just want to know more about me and my IoT company, write me an email or find me on LinkedIn/Facebook.
 
-#### http://picromatics.com
+#### https://picromatics.com
 #### contact@picromatics.com
 #### gabriel.eugen.pintea@gmail.com
 
