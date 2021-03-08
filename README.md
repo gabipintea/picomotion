@@ -5,7 +5,11 @@ PicoMotion is an open-source, simple, ready-to-mount, and ready-to-use motion se
 The hardware is comprised of:
 - WeMos D1 Mini ESP8255 Development Board
 - HC-SR501 PIR Sensor
+- 3 Jumper wires + optional D1 mini headers
 - 3D printed enclosure (STLs provided)
+- 5V/1Amp DC Power supply
+- micro-USB cable
+- appropriate mounting screw
 
 ## Software
 The firmware is written with ESPHome tool, flashed either via ESPHome-flasher, or from ESPHome Add-on within Home Assistant the first time. Afterward it can be OTA flashed. (both .yaml and compiled .bin provided)
